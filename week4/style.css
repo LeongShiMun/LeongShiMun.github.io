@@ -1,0 +1,44 @@
+button.subscribe {
+    background-color: #bc0406;
+    color: white;
+    border: 0px;
+}
+
+button.join {
+    background-color: white;
+    color: #24243c;
+    border: 1px solid #24243c;
+
+}
+
+button.tweet {
+    background-color: #148cdb;
+    color: white;
+    font-weight: bold;
+    border: 0px;
+    border-radius: 20px;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.button-style1 {
+    border-radius: 3px;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.button-style2 {
+    margin-left: 5px;
+}
+
+#bigbutton {
+    color: #FFAE42;
+}
+
+.setbg {
+    background-image: url("images/instagram.png");
+    background-size: contain;
+}
