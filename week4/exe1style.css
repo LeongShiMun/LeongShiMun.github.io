@@ -1,0 +1,34 @@
+@font-face {
+    font-family: Roboto;
+    src: url(Roboto/Roboto-Medium.ttf);
+}
+
+#nav {
+    display: flex;
+}
+
+a {
+
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: lightgray;
+    text-decoration: underline;
+    text-underline-offset: 10px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #308cec;
+    border: 15px solid #308cec;
+    font-family: 'Roboto';
+    align-items: center;
+}
+
+div {
+    margin-left: 5px;
+    margin-right: 5px;
+}
