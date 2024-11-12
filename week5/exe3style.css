@@ -1,0 +1,82 @@
+* {
+    font-family: "Nunito Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100,
+        "YTLC" 500;
+}
+
+.logo {
+    align-items: center;
+    margin: 5px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    background-image: url(images/sky.jpg);
+    align-items: center;
+    padding: 15px;
+}
+
+#nav {
+    display: flex;
+    align-items: center;
+}
+
+.nav-content {
+    display: flex;
+    align-items: center;
+    margin-right: 25px;
+}
+
+.content {
+    margin-right: 30px;
+}
+
+a {
+    color: #1c1414;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+
+.sub {
+    background-color: #1c1414;
+    color: white;
+    border: solid 2px #1c1414;
+    border-radius: 15px;
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-family: "Nunito Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100,
+        "YTLC" 500;
+}
+
+.sub:hover {
+    background-color: white;
+    color: #1c1414;
+    border: solid 2px #1c1414;
+    border-radius: 15px;
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-family: "Nunito Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100,
+        "YTLC" 500;
+}
