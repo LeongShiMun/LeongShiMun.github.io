@@ -198,12 +198,12 @@ hr {
 }
 
 a.exe {
-    color: #563A9C;
+    color: #1a2369;
     text-decoration: none;
 }
 
 a.exe:hover {
-    color: #9c6b00;
+    color: #655DBB;
     text-decoration: none;
 }
 
@@ -266,7 +266,6 @@ p.selfintro {
 }
 
 p.sub {
-    color: #1a2369;
     font-size: larger;
     font-family: "Fredoka", sans-serif;
     font-optical-sizing: auto;
