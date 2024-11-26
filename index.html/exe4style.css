@@ -82,6 +82,8 @@ div.selfintro {
 
 .row2 {
     margin-top: 15px;
+    display: flex;
+    gap: 15px;
 }
 
 div.exe-list {
@@ -118,6 +120,15 @@ div.week4-title {
 }
 
 div.week5-title {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 5px;
+}
+
+div.week6-title {
     display: flex;
     flex: 1;
     align-items: center;
@@ -164,20 +175,28 @@ div.week4 {
     flex: 1;
     border-radius: 8px;
     background-color: #ECF2FF;
-    ;
     padding: 20px;
     text-align: center;
     opacity: 0.8;
 }
 
 div.week5 {
-    flex: 3;
+    flex: 1;
     border-radius: 8px;
     background-color: #ECF2FF;
     padding: 20px;
     text-align: center;
     opacity: 0.8;
 
+}
+
+div.week6 {
+    flex: 1;
+    border-radius: 8px;
+    background-color: #ECF2FF;
+    padding: 20px;
+    text-align: center;
+    opacity: 0.8;
 }
 
 hr {
