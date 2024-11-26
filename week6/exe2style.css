@@ -166,4 +166,8 @@ a:hover {
         left: 32px;
         top: 2px;
     }
+
+    .icon {
+        display: none;
+    }
 }

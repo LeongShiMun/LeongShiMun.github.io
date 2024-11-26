@@ -298,4 +298,12 @@ p.sub {
     .porfolio {
         flex-direction: column;
     }
+
+    .row1 {
+        flex-direction: column;
+    }
+
+    .row2 {
+        flex-direction: column;
+    }
 }
